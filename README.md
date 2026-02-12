@@ -8,24 +8,29 @@ Projekt 1-osobowy
 
 # Pliki
 
-Program - greiner_hormann.py
+Program: greiner_hormann.py
 \
-Dokumentacja i sprawozdanie - dokumentacja.pdf
+Dokumentacja i sprawozdanie: dokumentacja.pdf
 \
 Prezentacja: prezentacja.pdf, prezentacja.pptx
 \
+Gify z animacjami: folder gify
+\
+\
 W pliku prezentacja_anim.pptx znajduje się zmodyfikowana wersja prezentacji z dodanymi animacjami.
 
-# Pozostałe informacje
+# Informacje
 
 Projekt był realizowany w pierwszym semestrze roku 2025/2026.
 \
+Został zaimplementowany tylko jeden algorytm wyznaczania sumy i iloczynu (algorytm Greinera-Hormanna). 
+\
 Aby uruchomić program wymagany jest dostęp do bibliotek NumPy oraz Matplotlib.
 \
-Został zaimplementowany tylko jeden algorytm wyznaczania sumy i iloczynu (Algorytm Greinera-Hormanna). 
 \
 Projekt został oceniony na 37/40 punktów.
 
-# Autorzy
-
-Błażej Żuk
+# Bibliografia
+1. Günther Greiner, Kai Hormann (1998). „Efficient clipping of arbitrary polygons”. ACM Transactions
+on Graphics, 17(2), 71–83.
+2. https://en.wikipedia.org/wiki/Point_in_polygon#Ray_casting_algorithm
