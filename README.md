@@ -2,22 +2,24 @@
 
 Zadawane są dwa wielokąty na płaszczyźnie dwuwymiarowej. (Należy także umożliwić użytkownikowi odpowiednio zadawanie tych wielokątów.) Program ma wyznaczać wielokąt będący sumą oraz będący iloczynem tych wielokątów.
 \
+\
 Program powinien w sposób graficzny prezentować etapy algorytmu dla wybranych przykładów (w celu objaśnienia działania algorytmu). W wersji bardziej zaawansowanej porównać dwa algorytmy wyznaczania sumy i przecięcia wielokątów.
+\
 \
 Projekt 1-osobowy
 
 # Pliki
 
-Program: greiner_hormann.py
+Program: [greiner_hormann.py](greiner_hormann.py)
 \
-Dokumentacja i sprawozdanie: dokumentacja.pdf
+Dokumentacja i sprawozdanie: [dokumentacja.pdf](dokumentacja.pdf)
 \
-Prezentacja: prezentacja.pdf, prezentacja.pptx
+Prezentacja: [prezentacja.pdf](prezentacja.pdf), [prezentacja.pptx](prezentacja.pptx)
 \
-Gify z animacjami: folder gify
+Gify z animacjami: folder [gify](gify)
 \
 \
-W pliku prezentacja_anim.pptx znajduje się zmodyfikowana wersja prezentacji z dodanymi animacjami.
+W pliku [prezentacja_anim.pptx](prezentacja_anim.pptx) znajduje się zmodyfikowana wersja prezentacji z dodanymi animacjami.
 
 # Informacje
 
